@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body
+{
+    background-color: #382284;
+    color: white;
+}
+h2
+{
+    font-size: 18px;
+}
+a
+{
+    color: #F6CEF5;
+}
+ul
+{
+    list-style: none;
+}
+.navbar-default
+{
+    /*background-color: #191970;*/
+    background-color: #009b85;
+}
+.navbar-default a.navbar-brand
+{
+    color: white;
+}
